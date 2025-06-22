@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import AddIncident from './components/AddIncident';
 import IncidentList from './components/IncidentList';
 import './App.css';
